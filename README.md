@@ -14,3 +14,9 @@ to allow instrumentation of Java bytecode class files and produced tracing infor
 for run time control-flow graph creation and inter-class relationship graphs.  Additional tools in
 the package provide event-driven report generation that is user configurable, test history reporting
 and coverage reporting, and bytecode mutation.
+
+You may not want to clone the entire project of source code packages we provide here.  Instead, you
+will only need to download the most recent (2.1.7) version which contains all the source code needed
+to build &#931;&#959;&#966;&#943;&#945;.  We provide the past versions within the project to permit
+users to use these versions in older Java JDK/JRE environments, or study what changes have been made
+to enable functioning with later versions of the JDK/JRE.
