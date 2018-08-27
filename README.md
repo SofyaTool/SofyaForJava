@@ -16,7 +16,9 @@ the package provide event-driven report generation that is user configurable, te
 and coverage reporting, and bytecode mutation.
 
 You may not want to clone the entire project of source code packages we provide here.  Instead, you
-will only need to download the most recent (2.1.7) version which contains all the source code needed
+will only need to download the most recent version
+(<a href="https://github.com/SofyaTool/SofyaForJava/raw/master/sofya-2.1.7.tar.gz">2.1.7</a>) 
+which contains all the source code needed
 to build &#931;&#959;&#966;&#943;&#945;.  We provide the past versions within the project to permit
 users to use these versions in older Java JDK/JRE environments, or study what changes have been made
 to enable functioning with later versions of the JDK/JRE.
