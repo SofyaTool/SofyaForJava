@@ -5,7 +5,7 @@ The original paper describing the tool is:
 Sofya: Supporting Rapid Development of Dynamic Program Analyses for Java.</a> Alex Kinneer, Matthew B. Dwyer, and Gregg Rothermel.
 in proceedings of ICSE'07 The 29th annual IEEE International Conference on Software Engineering, May 20-26, 2007.
 
-This repository contains the last version produced by the Software System Engineering Research Lab at UNL.
+This repository contains the last version produced by the Software Systems Engineering Research Lab at UNL.
 
 The Sofya (&#931;&#959;&#966;&#943;&#945;) Bytecode analysis tool provides a means to
 understand code, which facilitates comprehensive testing, maintenance and optimization of code.
